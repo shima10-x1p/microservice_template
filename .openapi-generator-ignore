@@ -1,5 +1,0 @@
-# .openapi-generator-ignore
-pyproject.toml
-README.md
-main.py
-Dockerfile
